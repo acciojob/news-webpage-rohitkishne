@@ -20,7 +20,7 @@
     padding-top:20px;
 }
 
-.left{
+.latest-news-section{
     height: 200px;
     width: 20%;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
@@ -44,7 +44,7 @@
     gap: 15px;
     padding: 51px 35px;
 }
-.right{
+.pictorial-news-section{
     height: 500px;
     width: 20%;
     box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
